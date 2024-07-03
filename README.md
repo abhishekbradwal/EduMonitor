@@ -1,16 +1,3 @@
-# Project Title : [edumonitor](edu-proctor.vercel.app/)
-
-edumonitor is an innovative platform aimed at enhancing online learning experiences through real-time eye tracking and AI-generated quizzes.
-
-
-
-## Introduction
-
-edumonitor addresses the challenges faced by students in online learning environments, such as distractions and lack of engagement, by leveraging cutting-edge technologies.
-With real-time eye tracking and AI-generated quizzes, edumonitor aims to improve student focus and comprehension during online classes.
-
-
-
 
 ## Configuration & Installation
 
@@ -101,28 +88,8 @@ wget https://github.com/explosion/sense2vec/releases/download/v1.0.0/s2v_reddit_
 
 tar -xvf  s2v_reddit_2015_md.tar.gz
 ```
-## Details
-
-edumonitor offers a range of features designed to enhance the online learning experience:
-
-### 1.  Real-Time Eye Tracking:
-
-  - edumonitor employs real-time eye tracking technology to monitor students' attention during online classes.
-
-  - If distractions are detected, alerts are sent to students, prompting them to refocus on the lesson.
 
 
-### 2.  AI-Generated Quizzes:
-
-  - The platform utilizes AI algorithms to generate personalized quizzes based on the lesson content.
-
-  - Quizzes are dynamically generated using keywords extracted from the material, ensuring relevance and alignment with lesson objectives.
-
-### 3.Seamless Integration:
-
-  - edumonitor seamlessly integrates with existing online learning platforms, providing a seamless experience for both students and educators.
-
-  - Teachers can easily incorporate edumonitor into their online classes to enhance student engagement and comprehension.
 
 
 
