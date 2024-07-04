@@ -83,8 +83,6 @@ Once you have installed the necessary dependencies, follow these steps to set up
     python -m spacy download en_core_web_sm
    ```
 
-```
-
 
 
 
